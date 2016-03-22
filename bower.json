@@ -1,0 +1,23 @@
+{
+  "name": "gettingMean",
+  "description": "follow along to the book of the same name",
+  "main": "",
+  "authors": [
+    "Martin Damm <martindamm@live.dk>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  }
+}
